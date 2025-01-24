@@ -22,4 +22,4 @@ Model berhasil menunjukkan kinerja yang sangat baik dengan hasil sebagai berikut
 ## 🚀 Cara Menjalankan  
 1. Clone repositori ini:  
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/CloudsWinter/Klasifikasi-Spesies-Kerbau-Menggunakan-Model-Multi-Layer-Perceptron-MLP-.git
